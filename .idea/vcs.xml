@@ -4,6 +4,7 @@
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../indian-political-donors" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../indian-ruling-parties" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../playground" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../property-rates-india" vcs="Git" />
   </component>
 </project>

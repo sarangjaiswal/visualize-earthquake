@@ -2,12 +2,64 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9350d290-ec13-4048-b0f3-7ab0d7a341c8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../playground/datetime/1_datetime_add_seconds.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../playground/matplotlib/5_stack_plots.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../playground/matplotlib/6_pie_chart.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../playground/matplotlib/7_another_example_load_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../playground/matplotlib/7_load_data_from_file.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../playground/matplotlib/8_load_data_from_internet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../playground/matplotlib/example.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../property-rates-india/_config.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/sarangjaiswal.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/earthquake.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/mygeodata/log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/mygeodata/mygeodata_merged.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/mygeodata/plate-boundaries/Micro_Plates_and_Major_Fault_Zones.geojson" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/mygeodata/plate-boundaries/Plate_Interface.geojson" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/mygeodata/plate-boundaries/Plate_Motion.geojson" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/mygeodata/plate-boundaries/shp/Micro_Plates_and_Major_Fault_Zones-line.cpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/mygeodata/plate-boundaries/shp/Micro_Plates_and_Major_Fault_Zones-line.dbf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/mygeodata/plate-boundaries/shp/Micro_Plates_and_Major_Fault_Zones-line.prj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/mygeodata/plate-boundaries/shp/Micro_Plates_and_Major_Fault_Zones-line.shp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/mygeodata/plate-boundaries/shp/Micro_Plates_and_Major_Fault_Zones-line.shx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/mygeodata/plate-boundaries/shp/Plate_Interface-line.cpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/mygeodata/plate-boundaries/shp/Plate_Interface-line.dbf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/mygeodata/plate-boundaries/shp/Plate_Interface-line.prj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/mygeodata/plate-boundaries/shp/Plate_Interface-line.shp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/mygeodata/plate-boundaries/shp/Plate_Interface-line.shx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/mygeodata/plate-boundaries/shp/Plate_Motion-point.cpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/mygeodata/plate-boundaries/shp/Plate_Motion-point.dbf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/mygeodata/plate-boundaries/shp/Plate_Motion-point.prj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/mygeodata/plate-boundaries/shp/Plate_Motion-point.shp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/mygeodata/plate-boundaries/shp/Plate_Motion-point.shx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/plate-boundaries.kmz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/earthquake_old.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maps/earthquake_india.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../playground/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../playground/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../playground/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../playground/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../playground/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../playground/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../playground/.idea/playground.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../playground/.idea/playground.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../playground/Bokeh/HelloWorldBokeh.py" beforeDir="false" afterPath="$PROJECT_DIR$/../playground/Bokeh/HelloWorldBokeh.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../playground/Bokeh/cars.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../playground/Bokeh/cars.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../playground/Bokeh/cars_columnDatasource.py" beforeDir="false" afterPath="$PROJECT_DIR$/../playground/Bokeh/cars_columnDatasource.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../playground/Bokeh/cars_column_datasource.html" beforeDir="false" afterPath="$PROJECT_DIR$/../playground/Bokeh/cars_column_datasource.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../playground/Bokeh/cars_simple.html" beforeDir="false" afterPath="$PROJECT_DIR$/../playground/Bokeh/cars_simple.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../playground/Bokeh/cars_simple.py" beforeDir="false" afterPath="$PROJECT_DIR$/../playground/Bokeh/cars_simple.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../playground/Bokeh/cars_tooltips.py" beforeDir="false" afterPath="$PROJECT_DIR$/../playground/Bokeh/cars_tooltips.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../playground/Bokeh/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../playground/Bokeh/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../playground/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../playground/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../playground/matplotlib/1_intro_line.py" beforeDir="false" afterPath="$PROJECT_DIR$/../playground/matplotlib/1_intro_line.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../playground/matplotlib/2_legends_titles_labels.py" beforeDir="false" afterPath="$PROJECT_DIR$/../playground/matplotlib/2_legends_titles_labels.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../playground/matplotlib/3_bar_chart.py" beforeDir="false" afterPath="$PROJECT_DIR$/../playground/matplotlib/3_bar_chart.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../playground/matplotlib/3_histogram.py" beforeDir="false" afterPath="$PROJECT_DIR$/../playground/matplotlib/3_histogram.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../playground/matplotlib/4_scatter_plots.py" beforeDir="false" afterPath="$PROJECT_DIR$/../playground/matplotlib/4_scatter_plots.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../property-rates-india/azure-pipelines.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../property-rates-india/azure-pipelines.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/sarangjaiswal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/sarangjaiswal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/visualize-earthquake.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/visualize-earthquake.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/earthquake.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/earthquake.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/earthquake.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/visualize-earthquakes.py" beforeDir="false" afterPath="$PROJECT_DIR$/visualize-earthquakes.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../visualize-indian-map/.idea/dictionaries/jaiswals.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../visualize-indian-map/.idea/dictionaries/jaiswals.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../visualize-indian-map/.idea/other.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../visualize-indian-map/.idea/other.xml" afterDir="false" />
@@ -26,10 +78,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/visualize-earthquakes.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="18" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
+            <state relative-caret-position="375">
+              <caret line="25" column="37" lean-forward="true" selection-start-line="25" selection-start-column="37" selection-end-line="25" selection-end-column="52" />
               <folding>
-                <element signature="e#341#354#0" expanded="true" />
+                <element signature="e#427#440#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -39,8 +91,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="345">
-                <caret line="23" column="25" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
+              <first_editor relative-caret-position="120">
+                <caret line="8" column="26" lean-forward="true" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
               </first_editor>
               <second_editor />
             </state>
@@ -63,6 +115,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/example.json" />
+        <option value="$PROJECT_DIR$/../playground/datetime/1_datetime_add.py" />
+        <option value="$PROJECT_DIR$/../playground/datetime/1_datetime_add_seconds.py" />
+        <option value="$PROJECT_DIR$/../visualize-indian-map/plot_and_color_indian_state_map.py" />
         <option value="$PROJECT_DIR$/visualize-earthquakes.py" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
@@ -92,19 +147,34 @@
             <path>
               <item name="visualize-earthquake" type="b2602c69:ProjectViewProjectNode" />
               <item name="visualize-earthquake" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="visualize-earthquake" type="b2602c69:ProjectViewProjectNode" />
+              <item name="visualize-earthquake" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="mygeodata" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="visualize-earthquake" type="b2602c69:ProjectViewProjectNode" />
+              <item name="visualize-earthquake" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="mygeodata" type="462c0819:PsiDirectoryNode" />
+              <item name="plate-boundaries" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="visualize-earthquake" type="b2602c69:ProjectViewProjectNode" />
+              <item name="visualize-earthquake" type="462c0819:PsiDirectoryNode" />
               <item name="img" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="visualize-earthquake" type="b2602c69:ProjectViewProjectNode" />
+              <item name="visualize-earthquake" type="462c0819:PsiDirectoryNode" />
+              <item name="maps" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="visualize-earthquake" type="b2602c69:ProjectViewProjectNode" />
               <item name="indian-ruling-parties" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="visualize-earthquake" type="b2602c69:ProjectViewProjectNode" />
-              <item name="property-rates-india" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="visualize-earthquake" type="b2602c69:ProjectViewProjectNode" />
-              <item name="visualize-indian-map" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -127,12 +197,18 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/data/mygeodata/plate-boundaries" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/data/mygeodata/plate-boundaries" />
+      <recent name="$PROJECT_DIR$/data" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/maps" />
+      <recent name="$PROJECT_DIR$/data" />
       <recent name="$PROJECT_DIR$/img" />
     </key>
   </component>
@@ -148,7 +224,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.visualize-earthquakes">
+    <configuration name="1_datetime_add_seconds" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="playground" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../playground/datetime" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../playground/datetime/1_datetime_add_seconds.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="visualize-earthquakes" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="visualize-earthquake" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -174,6 +272,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.visualize-earthquakes" />
+        <item itemvalue="Python.1_datetime_add_seconds" />
       </list>
     </recent_temporary>
   </component>
@@ -188,23 +287,27 @@
       <option name="presentableId" value="Default" />
       <updated>1554090871178</updated>
       <workItem from="1554090872424" duration="4697000" />
-      <workItem from="1554097924247" duration="2273000" />
+      <workItem from="1554097924247" duration="2504000" />
+      <workItem from="1554123988352" duration="3286000" />
+      <workItem from="1554137598260" duration="1227000" />
+      <workItem from="1554141158243" duration="2825000" />
+      <workItem from="1554146396994" duration="7014000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6970000" />
+    <option name="totallyTimeSpent" value="21553000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="976" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25274727" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26495728" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32918552" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.26923078" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39932126" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -213,12 +316,12 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32918552" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32918552" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.32967034" />
       <window_info anchor="right" id="Database" order="4" />
     </layout>
   </component>
@@ -226,26 +329,10 @@
     <option name="version" value="1" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/visualize_earthquake$visualize_earthquakes.coverage" NAME="visualize-earthquakes Coverage Results" MODIFIED="1554100547436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/visualize_earthquake$1_datetime_add_seconds.coverage" NAME="1_datetime_add_seconds Coverage Results" MODIFIED="1554142480055" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../playground/datetime" />
+    <SUITE FILE_PATH="coverage/visualize_earthquake$visualize_earthquakes.coverage" NAME="visualize-earthquakes Coverage Results" MODIFIED="1554154224757" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../visualize-indian-map/plot_indian_boundary_map.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" lean-forward="true" selection-start-line="16" selection-end-line="19" />
-          <folding>
-            <element signature="e#17#40#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../indian-ruling-parties/VisualizeRulingPartyHistory.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="23" column="31" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../visualize-indian-map/plot_indian_state_boundary_map.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -256,19 +343,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/example.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/visualize-earthquakes.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="18" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
-          <folding>
-            <element signature="e#341#354#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/example.json" />
     <entry file="file://$PROJECT_DIR$/../indian-ruling-parties/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -279,11 +354,66 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="8" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../playground/datetime/1_datetime_add.py" />
+    <entry file="file://$PROJECT_DIR$/../playground/datetime/1_datetime_add_seconds.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="87" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/mygeodata/log.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../visualize-indian-map/plot_indian_boundary_map.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="8" selection-end-column="53" />
+          <folding>
+            <element signature="e#17#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/mygeodata/plate-boundaries/shp/Plate_Motion-point.cpg">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../visualize-indian-map/plot_and_color_indian_state_map.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="22" selection-start-line="22" selection-end-line="30" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../indian-ruling-parties/VisualizeRulingPartyHistory.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-61">
+          <caret line="12" selection-start-line="12" selection-end-line="12" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/visualize-earthquakes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="37" lean-forward="true" selection-start-line="25" selection-start-column="37" selection-end-line="25" selection-end-column="52" />
+          <folding>
+            <element signature="e#427#440#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="345">
-            <caret line="23" column="25" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
+          <first_editor relative-caret-position="120">
+            <caret line="8" column="26" lean-forward="true" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
           </first_editor>
           <second_editor />
         </state>

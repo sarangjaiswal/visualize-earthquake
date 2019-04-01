@@ -8,6 +8,7 @@
     <orderEntry type="module" module-name="indian-political-donors" />
     <orderEntry type="module" module-name="indian-ruling-parties" />
     <orderEntry type="module" module-name="property-rates-india" />
+    <orderEntry type="module" module-name="playground" />
   </component>
   <component name="TestRunnerService">
     <option name="projectConfiguration" value="pytest" />

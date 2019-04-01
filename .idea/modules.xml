@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/../indian-political-donors/.idea/indian-political-donors.iml" filepath="$PROJECT_DIR$/../indian-political-donors/.idea/indian-political-donors.iml" />
       <module fileurl="file://$PROJECT_DIR$/../indian-ruling-parties/.idea/indian-ruling-parties.iml" filepath="$PROJECT_DIR$/../indian-ruling-parties/.idea/indian-ruling-parties.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../playground/.idea/playground.iml" filepath="$PROJECT_DIR$/../playground/.idea/playground.iml" />
       <module fileurl="file://$PROJECT_DIR$/../property-rates-india/.idea/property-rates-india.iml" filepath="$PROJECT_DIR$/../property-rates-india/.idea/property-rates-india.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/visualize-earthquake.iml" filepath="$PROJECT_DIR$/.idea/visualize-earthquake.iml" />
       <module fileurl="file://$PROJECT_DIR$/../visualize-indian-map/.idea/visualize-indian-map.iml" filepath="$PROJECT_DIR$/../visualize-indian-map/.idea/visualize-indian-map.iml" />
